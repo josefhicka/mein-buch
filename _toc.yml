@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+# jupyter-book build "D:\OneDrive - Josef Hicka\__MeineDaten__\python\Jupyter Book\mein-buch"
+
+format: jb-book
+root: intro
+chapters:
+- file: notebooks
+- file: mymarkdownfile
+
