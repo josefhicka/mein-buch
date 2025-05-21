@@ -1,1 +1,10 @@
-cd "D:\OneDrive - Josef Hicka\__MeineDaten__\python\Jupyter Book\mein-buch" && git pull origin main --rebase && git add . && git commit -m "Update" && git push origin main
+cd /d "D:\OneDrive - Josef Hicka\__MeineDaten__\python\Jupyter Book\mein-buch"
+
+git add .
+git commit -m "Deine Nachricht"
+
+
+git pull origin main --rebase && git add . && git commit -m "Update" && git push origin main
+
+git push
+
