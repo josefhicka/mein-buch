@@ -76,12 +76,24 @@ Gute Praxis: lieber kürzere Absätze mit Leerzeilen.
 ---
 
 
-## 2 Mal
+## Create a citation
 
-### 3 Mal
 
-#### 4 Mal
+Here is my nifty citation {cite}`perez2011python`.
 
-##### 5 Mal
-###### 6 Mal
-####### 7 Mal 
+Here are multiple citations {cite}`perez2011python,holdgraf_rapid_2016,RePEc:the:publsh:1367,caporaso2010qiime`!
+
+![Schöne_Landschaft](fotos/landschaftsfoto.jpg)
+
+```{image} fotos/landschaftsfoto.jpg
+:alt: landschaftsfoto
+:class: bg-primary mb-1
+:width: 200px
+:align: center
+```
+
+## math
+
+$$
+wow = its^{math}
+$$
