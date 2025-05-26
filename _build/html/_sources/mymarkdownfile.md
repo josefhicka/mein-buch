@@ -66,7 +66,10 @@ break
 break 
 
 DIeser SAtz soll einen Zeilenumbruch haben.  
-Neue Zeile.  
+Mit zwei space
+
+DIeser SAtz soll einen Zeilenumbruch haben.
+Mit ohne space
 
 
 :::tip
